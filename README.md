@@ -1,9 +1,9 @@
-Hello !
+
 # Vishal-P
 
 
 # 💫 About Me:
-Hello 👋 <br><br><br>I ' m Vishal P<br>Now I working on the python development <br>And learn the java programming, C programming <br>And have foundation knowledge in HTML,CSS, Javascript <br>I ' m Open to collaboration and software development 
+Hello 👋 <br><br><br>I ' m Vishal P<br>Now I working  and learning  the Java development<br>And learn the Python programming, C programming <br>And have foundation knowledge in HTML,CSS, Javascript <br>I ' m Open to collaboration and software development 
 
 
 ## 🌐 Socials:
